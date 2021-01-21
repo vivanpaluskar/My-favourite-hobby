@@ -16,8 +16,8 @@ h2{
   color: #8f0303;
   font-size: 30px;
 }
-#content{
-  background: linear-gradient(#3db1f5 30%, #05871d 70%);
+#all_sections{
+  background: linear-gradient(#3db1f5 0%, #05871d 100%);
   font-size: 25.4px;
   color: #9e9e20;
 }
@@ -36,7 +36,6 @@ h2{
  color: #FFFFFF;
  padding: 5px;
  padding-left: 9px;
- padding-right: 9px;
  padding-bottom: 5px;
  font-family: fantasy;
  font-size: 20px;
